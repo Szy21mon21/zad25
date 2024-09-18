@@ -1,0 +1,55 @@
+body {
+    font-family: Calibri; 
+    font-size: 15px;
+}
+
+table tr td {
+    border: solid 1px black;
+    text-align: center;
+}
+
+#pon {
+    width: 105px;
+}
+
+#wt {
+    width: 109px;
+}
+
+#sr {
+    width: 113px;
+}
+
+#czw {
+    width: 113px;
+}
+
+#pt {
+    width: 115px;
+}
+
+table {
+    margin-left: 13px;
+    border-collapse: collapse;
+}
+
+.male {
+    width: 27px;
+    background-color: #82caec;
+}
+
+#nic {
+    background-color: #ff0000;
+}
+
+.zielony {
+    background-color: #8ed973;
+}
+
+.szary {
+    background-color: #d9d9d9;
+}
+
+.orange {
+    background-color: #fbe2d5;
+}
